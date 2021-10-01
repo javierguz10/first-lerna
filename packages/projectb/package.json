@@ -10,5 +10,8 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@javierguz10/projecta": "^0.1.0"
   }
 }

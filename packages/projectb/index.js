@@ -1,3 +1,6 @@
-// change
-// 3333
-// dfg
+import { functionA } from "@javierguz10/projecta"
+
+export const functionB = () => {
+    console.log("I'm B")
+    functionA()
+}
